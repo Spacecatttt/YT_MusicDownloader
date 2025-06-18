@@ -4,7 +4,7 @@
 
 ---
 
-## 🔧 Main Features
+## Main Features
 
 - ✅ Download entire YouTube playlists in `.m4a` format
 - ✂️ Clean up and format filenames automatically
@@ -29,7 +29,7 @@
 
 ---
 
-## 🧩 Requirements
+## 🔧 Requirements
 
 - Python 3.9+
 - `PySide6`
@@ -41,6 +41,13 @@ Install dependencies:
 ```bash
 pip install -r requirements.txt
 ```
+
+##  🚀 How to Run
+
+```
+python app/app.py
+```
+
 
 
 ## 📝 Sample Rename Templates
